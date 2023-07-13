@@ -1,4 +1,4 @@
-In this project, let's build an **Even Odd App**.
+In this project, I build an **Even Odd App**.
 
 ### Refer to the image below:
 
